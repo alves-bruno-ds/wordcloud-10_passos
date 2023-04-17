@@ -9,7 +9,7 @@
 
 <p align="center">
 <p width="20%">
-  <img src="https://raw.githubusercontent.com/alves-bruno-ds/data-science-BR/main/Slipknot%2001.jpg" >
+  <img src="https://raw.githubusercontent.com/alves-bruno-ds/data-science-BR/main/Wordcloud_NYC2.png" >
 </p>
 
 Passo a passo em 10 etapas da geração de uma Nuvem de Palavras (wordcloud) da análise qualitativa dos imóveis disponíveis para locação via Airbnb em Nova Iorque. 
@@ -17,7 +17,7 @@ Passo a passo em 10 etapas da geração de uma Nuvem de Palavras (wordcloud) da 
 Base de dados [Inside Airbnb](http://insideairbnb.com/)
 
 
-[LINK DO PROJETO](https://github.com/alves-bruno-ds/wordcloud_slipknot/blob/main/Nuvem_de_palavras_(Wordcloud)_Slipknot.ipynb)
+[LINK DO PROJETO](https://github.com/alves-bruno-ds/wordcloud-10_passos/blob/main/Wordcloud_em_10_passos_Airbnb_NYC.ipynb)
 
 
 Qualquer dúvida, fico a dsposição em meus canais de contato!
